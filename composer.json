@@ -2,12 +2,6 @@
     "name": "skyfms/hhvm-ext_dbase",
     "description": "dBase database file access functions for HHVM",
     "type": "extension",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kmiller68/debian-composer-plugin"
-        }
-    ],
     "require": {
         "hhvm/debian-composer-plugin": "dev-master"
     },
