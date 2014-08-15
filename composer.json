@@ -7,7 +7,7 @@
     },
     "extra": {
         "apt-get": {
-            "default": []
+            "default": [""]
         }
     },
     "minimum-stability": "dev"
