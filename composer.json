@@ -6,7 +6,9 @@
         "hhvm/debian-composer-plugin": "dev-master"
     },
     "extra": {
-        "apt-get": {}
+        "apt-get": {
+            "default": []
+        }
     },
     "minimum-stability": "dev"
 }
